@@ -7,6 +7,7 @@ VSCodium*
 assets/
 build/linux/appimage/out
 build/linux/appimage/pkg2appimage.AppDir
+temp_auto_push.bat
 build/linux/appimage/pkg2appimage-*.AppImage
 build/linux/appimage/pkg2appimage.AppImage
 build/linux/appimage/squashfs-root
@@ -16,3 +17,5 @@ build/windows/msi/Files*.wxs
 build/windows/msi/Files*.wixobj
 stores/snapcraft/insider/*.snap
 stores/snapcraft/stable/*.snap
+.gitignore
+branch_structure.json
